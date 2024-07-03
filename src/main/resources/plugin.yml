@@ -1,0 +1,11 @@
+name: PickaxeEnchants
+version: '${project.version}'
+main: de.pickaxeenchants.main.Main
+api-version: 1.19
+depend: [Citizens]
+commands:
+  pickaxeenchants:
+  blocks:
+  setenchantlevel:
+  pickaxelevel:
+  autominer:
